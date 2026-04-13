@@ -1,8 +1,8 @@
-# Colonial Mexican Art Media Dataset (CMAMD)
+# Art Media Dataset - The New Spain (Mexico) ArtMD
 
 ## Overview
 
-The Colonial Mexican Art Media Dataset (CMAMD) is a curated collection of historical visual artworks from the New Spain period (16th–18th centuries). It is designed to support research in computer vision, transfer learning, domain adaptation, and digital humanities, providing a challenging benchmark for the classification of traditional art media.
+The Art Media Dataset - The New Spain (Mexico) ArtMD is a curated collection of historical visual artworks from the New Spain period (16th–18th centuries). It is designed to support research in computer vision, transfer learning, domain adaptation, and digital humanities, providing a challenging benchmark for the classification of traditional art media.
 
 ## Dataset Details
 
@@ -43,11 +43,11 @@ If you use CMAMD in your research, please cite it as follows:
 **BibTeX:**
 
 ```bibtex
-@misc{cmamd2025,
+@misc{ArtMD2026,
   author = {[Author's Name/s]},
-  title = {Colonial Mexican Art Media Dataset (CMAMD)},
-  year = {2025},
-  publisher = {Zenodo},
+  title = {Art Media Dataset - The New Spain (Mexico) ArtMD},
+  year = {2026},
+  publisher = {GitHub},
   doi = {Insert DOI},
   url = {https://doi.org/InsertDOI}
 }
